@@ -1,1 +1,5 @@
-main
+/vendor
+
+.env
+
+rss-aggregator
